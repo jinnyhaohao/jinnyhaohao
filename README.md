@@ -1,4 +1,4 @@
-## Hi there! 👋 I am Jinhao Zhang and Welcome to My GitHub Profile!
+# Hi there! 👋 I am Jinhao Zhang and Welcome to My GitHub Profile!
 
 I am a Third-year Computer Science and Astrophysics student at UofT with interests in software development, mobile development, and AI.
 
@@ -47,29 +47,21 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 
 </details>
 
-**📚 School Projects**
+### 📚 School Projects - *Code access is available upon request*
 
 <details>
-<summary><b>🌱 Mental Health Robot App</b></summary>
+<summary><b>🌱 Food Waste Management Using Recommended Recipes - CSC207</b></summary>
 
-This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal unit combinations and trait synergies, providing personalized insights and recommendations.The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
-
-Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-Health-Bot-Project-) for more details!
+Worked with four awesome teammates to create a recipe generating application that focuses on using about to expire ingredients. The project focused on clean architecture coding and object-oriented design.I added features for searching recipes and adding ingredients using Java and Maven. Hooked up three REST APIs to fetch recipes and show nutritional info, making the app super user-friendly. I designed over 20% of the app's windows with Java Swing. We utilized JUnit for testing and Git for version control to keep everything organized and on track! 
 
 </details>
 
----
+<details>
+<summary><b>🎮 Tetris Game - CSC207</b></summary>
 
-### 📈 Stats
+Worked with four awesome teammates to create a recipe generating application that focuses on using about to expire ingredients. The project focused on clean architecture coding and object-oriented design.I added features for searching recipes and adding ingredients using Java and Maven. Hooked up three REST APIs to fetch recipes and show nutritional info, making the app super user-friendly. I designed over 20% of the app's windows with Java Swing. We utilized JUnit for testing and Git for version control to keep everything organized and on track! 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-### How It Looks
-
-When rendered on GitHub, the sections with `<details>` tags will display as a clickable summary bar, and clicking on the bar will expand or collapse the section.
-
+</details>
 ---
 
 ### Example of Rendered Markdown
