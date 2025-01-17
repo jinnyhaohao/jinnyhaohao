@@ -52,14 +52,19 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 <details>
 <summary><b>🌱 Food Waste Management Using Recommended Recipes - CSC207</b></summary>
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 Worked with four awesome teammates to create a recipe generating application that focuses on using about to expire ingredients. The project focused on clean architecture coding and object-oriented design.I added features for searching recipes and adding ingredients using Java and Maven. Hooked up three REST APIs to fetch recipes and show nutritional info, making the app super user-friendly. I designed over 20% of the app's windows with Java Swing. We utilized JUnit for testing and Git for version control to keep everything organized and on track! 
 
 </details>
 
 <details>
-<summary><b>🎮 Tetris Game - CSC207</b></summary>
+<summary><b>🎮 Tetris Game - CSC258</b></summary>
 
-Worked with four awesome teammates to create a recipe generating application that focuses on using about to expire ingredients. The project focused on clean architecture coding and object-oriented design.I added features for searching recipes and adding ingredients using Java and Maven. Hooked up three REST APIs to fetch recipes and show nutritional info, making the app super user-friendly. I designed over 20% of the app's windows with Java Swing. We utilized JUnit for testing and Git for version control to keep everything organized and on track! 
+I Created a fully playable Tetris game with smooth, real-time gameplay using MIPS Assembly and Saturn for the visuals. Added fun features like gravity, score tracking, high scores, and game resets, all running seamlessly at 60 FPS. Focused on solid mechanics and an easy-to-use interface for a great player experience!
 
 </details>
 ---
