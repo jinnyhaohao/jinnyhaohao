@@ -63,10 +63,27 @@ Worked with four awesome teammates to create a recipe generating application tha
 
 <details>
 <summary><b>🎮 Tetris Game - CSC258</b></summary>
+  
+![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-%2300599C.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Saturn](https://img.shields.io/badge/Saturn-%23FFD700.svg?style=for-the-badge&logo=planet&logoColor=black)
 
 I Created a fully playable Tetris game with smooth, real-time gameplay using MIPS Assembly and Saturn for the visuals. Added fun features like gravity, score tracking, high scores, and game resets, all running seamlessly at 60 FPS. Focused on solid mechanics and an easy-to-use interface for a great player experience!
 
 </details>
+
+<details>
+<summary><b>📷 Image Processing Using Numerical Methods - CSC336</b></summary>
+  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=blue)
+
+Applied numerical techniques in image processing to enhance and transform images. Implemented Fast Fourier Transform (FFT) to filter noise and improve clarity, and utilized Gaussian blur for smoothing. Designed solutions for medical imaging noise reduction and edge enhancement in astronomy visuals, leveraging Python libraries like NumPy, SciPy, and OpenCV. This project combined advanced numerical methods with practical image processing applications to achieve precise and efficient results.
+
+</details>
+
+
 ---
 
 ### Example of Rendered Markdown
