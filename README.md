@@ -20,7 +20,7 @@ I am a Third-year Computer Science and Astrophysics student at UofT with interes
 
 ---
 
-### 🧐 What I'm Up To...
+### 🔭 I’m currently working on ...
 
 <details>
   <summary>⭐ Personal Projects</summary>
