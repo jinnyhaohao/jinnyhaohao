@@ -16,18 +16,15 @@ I am a Third-year Computer Science and Astrophysics student at UofT with interes
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-
-
 ---
 
 ### 🔭 I’m currently working on ...
 
 
   ⭐ Personal Projects
-  
-  - **🎮 Game Strategy Optimization Tool**
-<details>  
-    <summary>This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal     unit combinations and trait synergies, providing personalized insights and recommendations. The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure     PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.</summary>
+<details>    
+    <summary> 🎮 Game Strategy Optimization Tool** </summary>
+This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal     unit combinations and trait synergies, providing personalized insights and recommendations. The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure     PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
 </details>
 
   - **📱 Mantra Counter Mobile App**  
