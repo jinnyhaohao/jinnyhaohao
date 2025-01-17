@@ -86,12 +86,6 @@ Applied numerical techniques in image processing to enhance and transform images
 
 ---
 
-### Example of Rendered Markdown
-
-- By default, only the summary line (like "⭐ Personal Projects") is visible.
-- Clicking the bar will reveal the content below it.
-
-Let me know if you need additional tweaks or examples!
 
 
 
