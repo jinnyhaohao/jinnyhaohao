@@ -23,10 +23,10 @@ I am a Third-year Computer Science and Astrophysics student at UofT with interes
 ### 🔭 I’m currently working on ...
 
 <details>
-  <summary>⭐ Personal Projects</summary>
-
+  ⭐ Personal Projects
   - **🎮 Game Strategy Optimization Tool**  
-    This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal     unit combinations and trait synergies, providing personalized insights and recommendations. The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure     PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
+    <summary>This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal     unit combinations and trait synergies, providing personalized insights and recommendations. The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure     PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.</summary>
+
 
   - **📱 Mantra Counter Mobile App**  
     *Description of your project.*
