@@ -52,7 +52,7 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 <details>
 <summary><b>🌱 Food Waste Management Using Recommended Recipes - CSC207</b></summary>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white)
