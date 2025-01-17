@@ -21,16 +21,32 @@ I am a Third-year Computer Science and Astrophysics student at UofT with interes
 ### 🔭 I’m currently working on ...
 
 
-  **⭐ Personal Projects**
-<details>    
-    <summary><b> 
-    🎮 Game Strategy Optimization Tool </b>
-    </summary>
-This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal     unit combinations and trait synergies, providing personalized insights and recommendations. The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure     PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users. Check out the [🔗 Github Repository](https://github.com/yourusername/project-name) here for more details of my work!
+
+**⭐ Personal Projects**
+<details>
+<summary><b>🎮 Game Strategy Optimization Tool</b></summary>
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal unit combinations and trait synergies, providing personalized insights and recommendations.The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
+
+Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/Game-Strategy-Optimization-Tool-) for more details!
+
 </details>
-<details>  
-  - **📱 Mantra Counter Mobile App**  
-    *Description of your project.*
+
+<details>
+<summary><b>😄 Mental Health Robot App</b></summary>
+
+This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal unit combinations and trait synergies, providing personalized insights and recommendations.The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
+
+Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-Health-Bot-Project-) for more details!
+
+</details>
 
 
 
