@@ -48,23 +48,15 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 
 </details>
 
-
+**📚 School Projects**
 
 <details>
-  <summary>🚀 CaptionConcierge WebApp - Hackathon (NW Hacks)</summary>
+<summary><b>🌱 Mental Health Robot App</b></summary>
 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  - ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal unit combinations and trait synergies, providing personalized insights and recommendations.The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
 
-  *Collaborated with a team to build a React web application leveraging AI for summarizing YouTube videos.*  
-  **Key Features:**
-  - Backend built using Flask and OpenAI API.
-  - Frontend implemented using React and styled components.
-  - Real-time processing of YouTube captions into concise summaries.
+Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-Health-Bot-Project-) for more details!
 
-  [🔗 Github Repository](https://github.com/yourusername/project-name)
 </details>
 
 ---
