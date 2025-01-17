@@ -2,7 +2,7 @@
 
 I am a Third-year Computer Science and Astrophysics student at UofT with interests in software development, mobile development, and AI.
 
-### 🔧 Technologies & Tools...
+## 🔧 Technologies & Tools...
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,11 +17,11 @@ I am a Third-year Computer Science and Astrophysics student at UofT with interes
 
 ---
 
-### 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 
 
-**⭐ Personal Projects**
+### ⭐ Personal Projects
 <details>
 <summary><b>🎮 Game Strategy Optimization Tool</b></summary>
 
