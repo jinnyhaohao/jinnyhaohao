@@ -40,8 +40,13 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/Game-Strat
 
 <details>
 <summary><b>😄 Mental Health Robot App</b></summary>
+  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-This project is a full-stack analytics platform for Teamfight Tactics, featuring a Flask REST API backend and a ReactJS frontend. It uses graph algorithms to analyze player match history and identify optimal unit combinations and trait synergies, providing personalized insights and recommendations.The platform automates deployment on a Linux environment using Bash scripts to set up dependencies, configure PostgreSQL, and deploy the application, reducing manual effort by 40%. A SQL database is used to store and query player performance data efficiently, ensuring accurate insights for users.
+
+Worked with an amazing partner to develop a mental health iOS app designed to make it easier for users to track their mood, get insights, and access helpful resources for their well-being. It features a sleek SwiftUI interface for a smooth experience and a C++-powered backend with MongoDB for secure data storage. With hugging face AI for analysis, the app provides personalized insights to help users understand their emotions better. From guided surveys to mood tracking with visuals and curated mental health tips, this app is all about supporting self-care and emotional health in a simple, user-friendly way.
 
 Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-Health-Bot-Project-) for more details!
 
