@@ -88,6 +88,22 @@ Applied numerical techniques in image processing to enhance and transform images
 
 </details>
 
+<details>
+<summary><b>📷  Astronomical Database Grouping Analysis - AST325</b></summary>
+  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=blue)
+![Pandas](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=blue)
+ 
+
+I employed K-Means clustering algorithm on over 1 million data points from the Gaia astronomical databases to assign cluster groupings. To implement the algorithm, I used scikit-learn for effective implementation. I used PyTorch for clustering operations and computations, finally achieving 84% accuracy in cluster assignments!
+
+</details>
+
+
+
 
 ---
 
