@@ -1,6 +1,6 @@
 # Hi there! 👋 I am Jinhao Zhang and Welcome to My GitHub Profile!
 
-I am a Third-year Computer Science and Astrophysics student at UofT with interests in software development, mobile development, and AI.
+I am a Fourth-year Computer Science and Astrophysics student at UofT with interests in software development, mobile development, and AI.
 
 ## 🔧 Technologies & Tools...
 
