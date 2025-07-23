@@ -130,6 +130,29 @@ I employed K-Means clustering algorithm on over 1 million data points from the G
 
 </details>
 
+<details>
+<summary><b>🏠 Data‑Driven House Price Prediction – Big Data Analysis</b></summary>
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Scikit‑Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23007ACC.svg?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-%23F89820.svg?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-%23007ACC.svg?style=for-the-badge)
+
+Compared ten models and a stacked ensemble on the Kaggle Ames dataset; the tuned stack hit **0.120 Log‑RMSE**, placing **top 6 %** on the public leaderboard. Features included engineered ratios (e.g., LivingVsLot) and ordinal encodings for quality scores.:contentReference[oaicite:2]{index=2}
+</details>
+
+<details>
+<summary><b>🧩 Interactive Rubik’s Cube Simulator – Introduction to Computer Graphics</b></summary>
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
+![GLFW](https://img.shields.io/badge/GLFW-%23000000.svg?style=for-the-badge)
+
+Implemented full 3‑D rotation, layer twists, zoom, and texture mode in modern OpenGL; ray‑casting pinpoints the clicked face, and smooth animations keep 60 FPS.:contentReference[oaicite:3]{index=3}
+</details>
+
+
 
 
 
