@@ -61,7 +61,7 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 ![LSTM](https://img.shields.io/badge/LSTM-%23A97BFF.svg?style=for-the-badge)
 
 A lightweight pipeline that fuses daily **FinBERT‑extracted news sentiment** with price/volume features in an LSTM.  
-Adding sentiment cut RMSE by **12.6 % on Google** and **8.4 % on NVIDIA** compared to a price‑only baseline, confirming that textual signals sharpen short‑term forecasts.:contentReference[oaicite:0]{index=0}
+Adding sentiment cut RMSE by **12.6 % on Google** and **8.4 % on NVIDIA** compared to a price‑only baseline, confirming that textual signals sharpen short‑term forecasts.
 
 Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/Sentiment‑Stock‑Forecast) for code and experiment logs!
 </details>
@@ -74,7 +74,7 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/Sentime
 ![Wav2Vec 2.0](https://img.shields.io/badge/Wav2Vec2-%231A73E8.svg?style=for-the-badge)
 ![CNN‑Transformer](https://img.shields.io/badge/CNN--Transformer-%23F06EAA.svg?style=for-the-badge)
 
-Hybrid **Wav2Vec 2.0 + CNN‑Transformer** branches with logistic‑regression fusion achieve **93.8 % macro‑F1** on RAVDESS while keeping  <200 ms latency for live feedback.:contentReference[oaicite:1]{index=1}
+Hybrid **Wav2Vec 2.0 + CNN‑Transformer** branches with logistic‑regression fusion achieve **93.8 % macro‑F1** on RAVDESS while keeping  <200 ms latency for live feedback.
 
 [🔗 Repo coming soon]
 </details>
@@ -129,7 +129,7 @@ I employed K-Means clustering algorithm on over 1 million data points from the G
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23F89820.svg?style=for-the-badge)
 ![Optuna](https://img.shields.io/badge/Optuna-%23007ACC.svg?style=for-the-badge)
 
-Compared ten models and a stacked ensemble on the Kaggle Ames dataset; the tuned stack hit **0.120 Log‑RMSE**, placing **top 6 %** on the public leaderboard. Features included engineered ratios (e.g., LivingVsLot) and ordinal encodings for quality scores.:contentReference[oaicite:2]{index=2}
+Compared ten models and a stacked ensemble on the Kaggle Ames dataset; the tuned stack hit **0.120 Log‑RMSE**, placing **top 6 %** on the public leaderboard. Features included engineered ratios (e.g., LivingVsLot) and ordinal encodings for quality scores.
 </details>
 
 <details>
@@ -139,7 +139,7 @@ Compared ten models and a stacked ensemble on the Kaggle Ames dataset; the tuned
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
 ![GLFW](https://img.shields.io/badge/GLFW-%23000000.svg?style=for-the-badge)
 
-Implemented full 3‑D rotation, layer twists, zoom, and texture mode in modern OpenGL; ray‑casting pinpoints the clicked face, and smooth animations keep 60 FPS.:contentReference[oaicite:3]{index=3}
+Implemented full 3‑D rotation, layer twists, zoom, and texture mode in modern OpenGL; ray‑casting pinpoints the clicked face, and smooth animations keep 60 FPS.
 </details>
 
 
