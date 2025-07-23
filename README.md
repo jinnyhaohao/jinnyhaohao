@@ -63,7 +63,7 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 A lightweight pipeline that fuses daily **FinBERT‑extracted news sentiment** with price/volume features in an LSTM.  
 Adding sentiment cut RMSE by **12.6 % on Google** and **8.4 % on NVIDIA** compared to a price‑only baseline, confirming that textual signals sharpen short‑term forecasts.
 
-Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/Sentiment‑Stock‑Forecast) for code and experiment logs!
+Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/StockMarketForecasting) for code and experiment logs!
 </details>
 
 <details>
