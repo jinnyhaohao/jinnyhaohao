@@ -104,26 +104,16 @@ I Created a fully playable Tetris game with smooth, real-time gameplay using MIP
 
 </details>
 
-<details>
-<summary><b>📷 Image Processing Using Numerical Methods - CSC336</b></summary>
-  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=blue)
 
-Applied numerical techniques in image processing to enhance and transform images. Implemented Fast Fourier Transform (FFT) to filter noise and improve clarity, and utilized Gaussian blur for smoothing. Designed solutions for medical imaging noise reduction and edge enhancement in astronomy visuals, leveraging Python libraries like NumPy, SciPy, and OpenCV. This project combined advanced numerical methods with practical image processing applications to achieve precise and efficient results.
-
-</details>
 
 <details>
 <summary><b>📷  Astronomical Database Grouping Analysis - AST325</b></summary>
   
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=blue)
-![Pandas](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit‑Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
  
 
 I employed K-Means clustering algorithm on over 1 million data points from the Gaia astronomical databases to assign cluster groupings. To implement the algorithm, I used scikit-learn for effective implementation. I used PyTorch for clustering operations and computations, finally achieving 84% accuracy in cluster assignments!
