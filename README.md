@@ -52,6 +52,34 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/-Mental-He
 
 </details>
 
+<details>
+<summary><b>📈 Sentiment‑Augmented Stock Price Forecasting</b></summary>
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LSTM](https://img.shields.io/badge/LSTM-%23A97BFF.svg?style=for-the-badge)
+
+A lightweight pipeline that fuses daily **FinBERT‑extracted news sentiment** with price/volume features in an LSTM.  
+Adding sentiment cut RMSE by **12.6 % on Google** and **8.4 % on NVIDIA** compared to a price‑only baseline, confirming that textual signals sharpen short‑term forecasts.:contentReference[oaicite:0]{index=0}
+
+Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/Sentiment‑Stock‑Forecast) for code and experiment logs!
+</details>
+
+<details>
+<summary><b>🎤 EMOVOICE – Real‑Time Speech Emotion Recognition</b></summary>
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Wav2Vec 2.0](https://img.shields.io/badge/Wav2Vec2-%231A73E8.svg?style=for-the-badge)
+![CNN‑Transformer](https://img.shields.io/badge/CNN--Transformer-%23F06EAA.svg?style=for-the-badge)
+
+Hybrid **Wav2Vec 2.0 + CNN‑Transformer** branches with logistic‑regression fusion achieve **93.8 % macro‑F1** on RAVDESS while keeping  <200 ms latency for live feedback.:contentReference[oaicite:1]{index=1}
+
+[🔗 Repo coming soon]
+</details>
+
+
 ### 📚 School Projects - *Code access is available upon request*
 
 <details>
