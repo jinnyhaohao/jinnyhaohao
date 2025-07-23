@@ -76,7 +76,7 @@ Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/StockMa
 
 Hybrid **Wav2Vec 2.0 + CNN‑Transformer** branches with logistic‑regression fusion achieve **93.8 % macro‑F1** on RAVDESS while keeping  <200 ms latency for live feedback.
 
-[🔗 Repo coming soon]
+Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/EMOVOICE) for more details!
 </details>
 
 
