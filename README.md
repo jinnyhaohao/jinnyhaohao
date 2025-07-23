@@ -79,6 +79,19 @@ Hybrid **Wav2Vec 2.0 + CNN‑Transformer** branches with logistic‑regression 
 Check out the [🔗 GitHub Repository](https://github.com/jinnyhaohao/EMOVOICE) for more details!
 </details>
 
+<details>
+<summary><b>₿ Bitcoin Analyzer & Smart Backtester</b></summary>
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+I built a data‑driven Bitcoin analyzer that crunches years of OHLCV data to uncover profitable trading signals. Using PyTorch, it trains an LSTM‑GRU hybrid to forecast 4‑hour returns, then feed‑forwards those probabilities into a custom backtester that simulates trades—including maker/taker fees and slippage—for rock‑solid realism. A sleek Streamlit dashboard lets you toggle indicators, adjust entry/exit thresholds, and instantly see updated equity curves, win rates, and drawdowns. In addition, a TFT was build to incorporate alongside the signals to improve perforamnce.
+
+[🔗 GitHub Repository] coming soon!
+</details>
+
 
 ### 📚 School Projects - *Code access is available upon request*
 
